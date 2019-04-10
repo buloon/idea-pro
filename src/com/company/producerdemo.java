@@ -13,7 +13,7 @@ public class producerdemo {
         Thread t1=new Thread(pro);
         Thread t2= new Thread(cus);
         t1.start();
-        t2.start();
+
 
 
 
