@@ -7,6 +7,6 @@ public class Main {
     public static void main(String[] args) {
 
 	// we your code here
-        System.out.println("good"+"DE是的");
+        System.out.println("good"+"DE是的11");
     }
 }
