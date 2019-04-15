@@ -31,6 +31,7 @@ class resouce{
         System.out.println(Thread.currentThread().getName()+"生产者"+this.name);
         flag = true;
         this.notify();
+
     }
 
     public synchronized  void out() {
