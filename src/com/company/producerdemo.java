@@ -14,8 +14,6 @@ public class producerdemo {
         Thread t2= new Thread(cus);
         t1.start();
         t2.start();
-
-
     }
 }
 
